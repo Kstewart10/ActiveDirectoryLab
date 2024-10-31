@@ -1,20 +1,21 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-This project consists of creating an Active Directory home lab environment using Oracle VM Virtual Box. The purpose of this project is to gather hands on experience with an Active Directory environment and further enhance my understanding of how Active Directory and Windows Networking works. 
+This project consists of creating an Active Directory home lab environment using Oracle VM Virtual Box. The purpose of this project is to gather hands on experience with building out an an Active Directory environment and further enhance my understanding of how Active Directory and Windows Networking works. 
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+- <b>Windows Server 2019</b>
+- <b>Oracle VM Virtualbox</b>
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
