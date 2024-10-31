@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-This project consists of creating an Active Directory home lab environment using Oracle VM Virtual Box. The purpose of this project is to gather hands on experience with building out an an Active Directory environment and further enhance my understanding of how Active Directory and Windows Networking works. 
+This project consists of creating an Active Directory home lab environment using Oracle VM Virtual Box. The purpose of this project is to gather hands on experience with building out an an Active Directory environment that simulates a real-world corporte environment. It is also meant to further enhance my understanding of how Active Directory and Windows Networking works. 
 <br />
 
 
