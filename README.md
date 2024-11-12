@@ -18,32 +18,48 @@ This project consists of creating an Active Directory home lab environment using
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating the Domain on my Domain Controller: <br/>
+<img src="https://i.imgur.com/QKJ6c02.png" height="80%" width="80%" alt="AD"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating Admin OU on DC:  <br/>
+<img src="https://i.imgur.com/N9UueaY.png" height="80%" width="80%" alt="AD"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Signing into DC using newly created Admin account: <br/>
+<img src="https://i.imgur.com/jjoUsAZ.png" height="80%" width="80%" alt="AD"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up remote access for client connectivity:  <br/>
+<img src="https://i.imgur.com/bNp4I2m.png" height="80%" width="80%" alt="AD"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring DHCP:  <br/>
+<img src="https://i.imgur.com/1HcdY7c.png" height="80%" width="80%" alt="AD"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Using the Domain Controller for DNS:  <br/>
+<img src="https://i.imgur.com/JyFzkkM.png" height="80%" width="80%" alt="AD"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Script for creating generic users:  <br/>
+<img src="https://i.imgur.com/SzVVkrz.png" height="80%" width="80%" alt="AD"/>
+<br />
+<br />
+Generic users created:  <br/>
+<img src="https://i.imgur.com/HmSMFlJ.png" height="80%" width="80%" alt="AD"/>
+<br />
+<br />
+Creating a new client to simulate a corporate environment:  <br/>
+<img src="https://i.imgur.com/9a52Pm8.png" height="80%" width="80%" alt="AD"/>
+<br />
+<br />
+Joined the client computer to the domain:  <br/>
+<img src="https://i.imgur.com/XM4A0GK.png" height="80%" width="80%" alt="AD"/>
+<br />
+<br />
+Signing into the client computer using one of the generated user credentials:  <br/>
+<img src="https://i.imgur.com/nHN9Myd.png" height="80%" width="80%" alt="AD"/>
 </p>
 
 <!--
